@@ -1,0 +1,7 @@
+
+public enum TIPO_FORMACION{
+	UNIVERSIDAD,
+	CICLO,
+	MASTER,
+	POSGRADO
+}

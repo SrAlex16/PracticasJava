@@ -1,0 +1,6 @@
+tornillos
+tuercas
+destornilladores
+llaves
+pinzas
+alicates

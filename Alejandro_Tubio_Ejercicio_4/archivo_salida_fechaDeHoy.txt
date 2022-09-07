@@ -1,0 +1,1 @@
+Alumno [nombre=Alex, apellido=Tubio, localidad=Córdoba, edad=22, auto=Auto [color=rojo, marca=mazda], formacion=FormacionAcademica [titulo=programador, tipoGrado=CICLO]]

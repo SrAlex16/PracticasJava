@@ -1,0 +1,9 @@
+
+public enum TIPO_COMIDA {
+	VERDURA,
+	CARNE,
+	PESCADO,
+	MARISCO,
+	SOPA,
+	POSTRE
+}

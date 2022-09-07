@@ -1,0 +1,1 @@
+["Coche [precio=10000, resultado=2500.0, modelo=A1]","Coche [precio=15000, resultado=3750.0, modelo=A2]","Coche [precio=18000, resultado=4500.0, modelo=A3]","Coche [precio=21000, resultado=5250.0, modelo=A5]"]

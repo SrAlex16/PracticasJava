@@ -1,0 +1,2 @@
+Empleado [nombre=alejandro, apellido=tubio, fechaIngreso=1/1/2022, puesto=programador, idEmpleado=1, antiguedadLaboral=1, salario=1200]
+Antiguedad laboral: 22 años
