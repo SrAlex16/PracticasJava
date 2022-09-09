@@ -1,0 +1,6 @@
+package enums;
+
+
+public enum NOMBRES {
+DARK_SOULS_3, THE_LASTO_OF_US, FIFA_2022, MARIO_BROS, DOOM_2, HORIZON
+}
