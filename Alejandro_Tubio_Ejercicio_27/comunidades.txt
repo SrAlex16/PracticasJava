@@ -1,0 +1,16 @@
+Andalucia Sevilla
+Aragon Zaragoza
+Asturias Oviedo
+Baleares Mallorca
+Cantabria Santander
+La_Mancha Toledo
+Castilla_y_Leon Valladolid
+Catalunia Barcelona
+Valencia Valencia
+Extremadura Merida
+Galicia Santiago
+La_Rioja Logrono
+Madrid Madrid
+Murcia Murcia
+Navarra Pamplona
+Pais_Vasco Vitoria

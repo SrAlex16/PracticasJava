@@ -1,0 +1,68 @@
+{
+    "comunidades": [
+      {
+        "nombre": "Andalucía",
+        "capital": "Sevilla"
+      },
+      {
+        "nombre": "Aragón",
+        "capital": "Zaragoza"
+      },
+      {
+        "nombre": "Asturias",
+        "capital": "Oviedo"
+      },
+      {
+        "nombre": "Baleares",
+        "capital": "Mallorca"
+      },
+      {
+        "nombre": "Cantabria",
+        "capital": "Santander"
+      },
+      {
+        "nombre": "Castilla La Mancha",
+        "capital": "Toledo"
+      },
+      {
+        "nombre": "Castilla y León",
+        "capital": "Valladolid"
+      },
+      {
+        "nombre": "Catalunia",
+        "capital": "Barcelona"
+      },
+      {
+        "nombre": "Valencia",
+        "capital": "Valencia"
+      },
+      {
+        "nombre": "Extremadura",
+        "capital": "Merida"
+      },
+      {
+        "nombre": "Galicia",
+        "capital": "Santiago De Compostela"
+      },
+      {
+        "nombre": "La Rioja",
+        "capital": "Logrono"
+      },
+      {
+        "nombre": "Madrid",
+        "capital": "Madrid"
+      },
+      {
+        "nombre": "Murcia",
+        "capital": "Murcia"
+      },
+      {
+        "nombre": "Navara",
+        "capital": "Pamplona"
+      },
+      {
+        "nombre": "Pais Vasco",
+        "capital": "Vitoria"
+      }
+    ]
+  }
